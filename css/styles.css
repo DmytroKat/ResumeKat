@@ -69,7 +69,8 @@ body{
 }
 .education_title{
     color: black;
-    padding-top: 20px;
+    padding-top: 10px;
+    margin-top: 10px;
 }
 .education_body_title{
     color: #FB6D3A;
@@ -92,7 +93,7 @@ body{
 
 .saidbar-contacts-block{
     padding-top: 40px;
-    padding-right: 40px;
+    padding-right: 5px;
     padding-bottom: 40px;
 }
 
@@ -149,4 +150,45 @@ body{
     margin-left: 0px;
     padding-bottom: 20px;
     margin-bottom: 20px;
+}
+
+.telegram_link{
+
+}
+
+.telegram_icon{
+    padding: 0 30px 0;
+    width: 30px;
+}
+
+.viber_link{
+
+}
+.viber_icon{
+    width: 30px;
+}
+.phone_link_icone{
+
+}
+.phone_icone{
+    padding: 0 15px 0;
+    width: 25px;
+}
+.whatsup_link{
+
+}
+.whatsup_icone{
+    padding: 0 30px 0;
+    width: 30px;
+}
+
+}
+.skype_link{
+    padding: 0 10px 0;
+    width: 30px;
+}
+
+.skype_icone{
+    padding: 0 0px 0 0px;
+    width: 30px;
 }
